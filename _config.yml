@@ -1,0 +1,22 @@
+testing: false
+
+# Site settings
+title: "Honors Calculus I (Fall 2026)"
+page_title: "MATH 1610 — Honors Calculus I"
+course_title: "UPenn MATH 1610, Fall 2026."
+description: "Course website"
+instructor: "Danny Krashen"
+email: "daniel.krashen+acalci@gmail.com"
+office: "DRL 3E1A"
+office_hours: "TBD"
+lecture_schedule: ""
+
+baseurl: "/acalci26"
+url: "http://dkrashen.github.io"
+
+# url: "localhost:4000"
+# url: "http://math.dkrashen.org"
+
+# Build settings
+markdown: kramdown
+permalink: pretty
