@@ -1,3 +1,6 @@
 - title: "Lecture 1 (August 28, 2026)"
   description: "Introduction to the course and the language of set theory"
   filename: "lecture1-slides.pdf"
+- title: "Lecture 2 (August 31, 2026)"
+  description: "Set identities, paradoxes, and axioms for numbers"
+  filename: "lecture2-slides.pdf"
