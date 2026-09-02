@@ -27,6 +27,13 @@ Topics covered:
 ### Exams
 We will have <b>three in-class exams</b>. 
 
+Provisional exam dates:
+<ul>
+<li>Exam 1, Monday September 28</li>
+<li>Exam 2, Monday November 2</li>
+<li>Exam 3, Friday December 4</li>
+</ul>
+
 There is <b>no separate final exam</b> during the registrar’s final exam period.
 
 ### Grading Policy
