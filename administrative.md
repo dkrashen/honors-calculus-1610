@@ -10,7 +10,7 @@ This course is an honors version of MATH 1410, covering the
 material in greater depth than that course, with more challenging problems and more attention to definitions and to the reasons behind the results, including proofs. 
 
 
-Textbook: Tom Apostol, Calculus, Volumes I and II, second edition. On reserve at MPA library, DRL 3N1.
+Textbook: Tom Apostol, Calculus, Volumes I and II, second edition.
 ### Course Topics and Textbook Sections
 
 Topics covered:
