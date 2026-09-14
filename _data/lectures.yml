@@ -9,6 +9,6 @@
   filename: "lecture3-slides.pdf"
 - title: "Lecture 4 (September 11, 2026)"
   description: "Floors, density, and Dedekind cuts"
-  details: "The extended notes additionally cover the digression on complex numbers and quaternions, and the beginning of our discussion of functions, area, and the integral."
+  details: "The extended notes (beyond what we actually covered in lecture) additionally cover the digression on complex numbers and quaternions, and the beginning of our discussion of functions, area, and the integral."
   filename: "lecture4-slides.pdf"
   extended_filename: "lecture4-slides-extended.pdf"
