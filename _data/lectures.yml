@@ -15,3 +15,6 @@
 - title: "Lecture 5 (September 18, 2026)"
   description: "Area, step functions, and the definite integral (with a hypercomplex number prelude)"
   filename: "lecture5-slides.pdf"
+- title: "Lecture 6 (September 21, 2026)"
+  description: "Properties of the integral, and the definition of a limit"
+  filename: "lecture6-slides.pdf"

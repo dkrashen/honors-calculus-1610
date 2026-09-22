@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<h3>Exams</h3>
+<br />
+{% assign reversedExams = site.data.exams | reverse %}
+{% for l in reversedExams %}
+<div class="row well well-sm">
+	<div class="col-md-7">
+	  <b>{{l.title}}</b>{% if l.description %}: {{l.description}}
+    {% endif %}
+	</div>
+  {% if l.practice_filename or l.filename or l.solutions_filename %}
+	<div class="col-md-5">
+    {% if l.practice_filename %}
+		<a href="{{ l.practice_filename }}"><button type="button"
+    class="btn btn-lnk btn-spaced">practice problems</button></a>
+    {% endif %}
+    {% if l.filename %}
+		<a href="{{ l.filename }}"><button type="button"
+    class="btn btn-lnk btn-spaced">exam</button></a>
+    {% endif %}
+    {% if l.solutions_filename %}
+		<a href="{{ l.solutions_filename }}"><button type="button"
+    class="btn btn-lnk btn-spaced">solutions</button></a>
+    {% endif %}
+	</div>
+  {% endif %}
+</div>
+{% endfor %}
