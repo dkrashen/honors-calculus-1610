@@ -24,3 +24,6 @@
 - title: "Lecture 8 (October 9, 2026)"
   description: "The intermediate value theorem and friends"
   filename: "lecture8-slides.pdf"
+- title: "Lecture 9 (October 12, 2026)"
+  description: "Uniform continuity, integrability of continuous functions, and the derivative"
+  filename: "lecture9-slides.pdf"
