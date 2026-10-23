@@ -33,3 +33,6 @@
 - title: "Lecture 11 (October 19, 2026)"
   description: "Extrema, the mean value theorem, and the fundamental theorem of calculus"
   filename: "lecture11-slides.pdf"
+- title: "Lecture 12 (October 23, 2026)"
+  description: "Vectors, the dot product, Cauchy-Schwarz, and limits of vector-valued functions"
+  filename: "lecture12-slides.pdf"
