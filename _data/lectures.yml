@@ -36,3 +36,6 @@
 - title: "Lecture 12 (October 23, 2026)"
   description: "Vectors, the dot product, Cauchy-Schwarz, and limits of vector-valued functions"
   filename: "lecture12-slides.pdf"
+- title: "Lecture 13 (October 26, 2026)"
+  description: "Limits and derivatives of vector-valued functions, and the Leibniz rules"
+  filename: "lecture13-slides.pdf"
