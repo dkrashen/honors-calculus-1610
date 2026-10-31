@@ -10,11 +10,15 @@ layout: default
 	  <b>{{l.title}}</b>{% if l.description %}: {{l.description}}
     {% endif %}
 	</div>
-  {% if l.practice_filename or l.filename or l.solutions_filename %}
+  {% if l.practice_filename or l.practice_solutions_filename or l.filename or l.solutions_filename %}
 	<div class="col-md-5">
     {% if l.practice_filename %}
 		<a href="{{ l.practice_filename }}"><button type="button"
     class="btn btn-lnk btn-spaced">practice problems</button></a>
+    {% endif %}
+    {% if l.practice_solutions_filename %}
+		<a href="{{ l.practice_solutions_filename }}"><button type="button"
+    class="btn btn-lnk btn-spaced">practice solutions</button></a>
     {% endif %}
     {% if l.filename %}
 		<a href="{{ l.filename }}"><button type="button"
