@@ -42,3 +42,6 @@
 - title: "Exam 2 review (October 30, 2026)"
   description: "Practice problems 5, 7, 10, 12 and 14 worked through"
   filename: "exam2-review-slides.pdf"
+- title: "Lecture 14 (November 6, 2026)"
+  description: "An informal introduction to derivatives on R^n: covectors, the gradient, and partial derivatives"
+  filename: "lecture14-slides.pdf"
