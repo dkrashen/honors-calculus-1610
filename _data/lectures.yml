@@ -48,3 +48,6 @@
 - title: "Lecture 15 (November 9, 2026)"
   description: "Limits and continuity in R^n, the differential and the gradient, partial derivatives, and a preview of differential forms"
   filename: "lecture15-slides.pdf"
+- title: "Lecture 16 (November 13, 2026)"
+  description: "Limits of compositions, the chain rule along a curve, directional derivatives, vector fields, and line integrals"
+  filename: "lecture16-slides.pdf"
