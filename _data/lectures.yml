@@ -51,3 +51,6 @@
 - title: "Lecture 16 (November 13, 2026)"
   description: "Limits of compositions, the chain rule along a curve, directional derivatives, vector fields, and line integrals"
   filename: "lecture16-slides.pdf"
+- title: "Lecture 17 (November 16, 2026)"
+  description: "Reparametrizing line integrals, gradient fields, second derivatives and the symmetry of mixed partials, and the curl"
+  filename: "lecture17-slides.pdf"
