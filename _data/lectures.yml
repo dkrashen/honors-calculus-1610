@@ -54,3 +54,6 @@
 - title: "Lecture 17 (November 16, 2026)"
   description: "Reparametrizing line integrals, gradient fields, second derivatives and the symmetry of mixed partials, and the curl"
   filename: "lecture17-slides.pdf"
+- title: "Lecture 18 (November 20, 2026)"
+  description: "Stokes's theorem as a goal, all the derivatives so far, divergence, and the formal calculus of differential forms and wedges"
+  filename: "lecture18-slides.pdf"
